@@ -9,3 +9,8 @@ My Process:
 3. I then started on coding the game. The first thing I did was create an outline of all the components I would need and then added in the filler that is included to each section. Once everything was set. I started to fill in the information.
 
 4. Then I ran a few tests to make sure my project was complete.
+
+Tools I used:
+- PyCharm CE
+- Figma
+- FigJam
